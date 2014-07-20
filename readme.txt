@@ -1,0 +1,1 @@
+This is a test repo for learning and managing Git. Further description of the readme file.
